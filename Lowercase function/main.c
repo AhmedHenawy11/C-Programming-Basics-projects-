@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+//This program take an string input from user and convert the uppercase letters to lowercase letters
 #include <stdio.h>
 #include <string.h>
 
